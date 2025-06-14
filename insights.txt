@@ -1,0 +1,7 @@
+
+Insights from Sales Dashboard:
+
+1. Sales peaked in December 2023, indicating strong year-end performance.
+2. The West region recorded the highest total sales, followed by East.
+3. Technology was the top-performing category in terms of sales share.
+4. Sales were relatively low in the early months of 2023, showing a seasonal trend.
